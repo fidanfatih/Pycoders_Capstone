@@ -1,0 +1,4 @@
+1-Data Cleansing
+2-Dealing with missing values
+3-Outlier Analysis
+4-Desriptional statistical analysis via Data visualization 

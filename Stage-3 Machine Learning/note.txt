@@ -1,0 +1,2 @@
+- En onemli featurelara gore araba fiyati tahminleyen en basarili Supervised Learning regresyon 
+modeli egitilecek.
