@@ -1,0 +1,11 @@
+,make model,make,power,age,mileage,co2_emissions,fuel_consumption_mean,engine_size,empty_weight,warranty,cc_Air conditioning,cc_Cruise control,cc_Sunroof
+0,Audi A3,Audi,400,1,10,188,8,2480,1550,48,1,1,0
+1,Audi Q7,Audi,340,2,25,62,3,2500,1800,24,1,1,0
+2,BMW 116,BMW,280,1,8,100,4,2300,1600,60,1,1,1
+3,Chevrolet Aveo,Chevrolet,120,5,100,200,6,1650,1500,12,1,0,0
+4,Citroen C4,Citroen,110,3,90,130,6,1300,1350,3,1,0,0
+5,Ford Focus,Ford,140,4,120,160,5,1550,1550,6,1,1,0
+6,Kia Picanto,Kia,80,10,150,140,4,1100,950,3,0,0,0
+7,Mercedes-Benz E 350,Mercedes-Benz,400,3,80,70,7,2300,1900,48,1,1,1
+8,Renault Megane,Renault,105,4,60,110,5,1250,1450,6,1,0,0
+9,Tesla Model 3,Tesla,700,1,5,0,0,2450,2500,60,1,1,1
